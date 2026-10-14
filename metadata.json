@@ -1,0 +1,6 @@
+{
+  "name": "TERRA & FORMA — Journal of Architecture & Craft",
+  "description": "An editorial publication exploring vernacular craft, material science, tectonic theory, and resilient built environments across 10 in-depth architectural essays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
